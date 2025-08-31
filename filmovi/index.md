@@ -1,3 +1,11 @@
+<style>
+body {
+  background-color: #1a1a1a;
+  color: #e0e0e0;
+}
+</style>
+
+
 # Filmovi
 
 ## Domaći
@@ -83,7 +91,7 @@
 
 ### Dark City (1998)
 
-<img src="./img/diner.jpg" width="20%">
+<img src="./img/darkcity.jpg" width="20%">
 
 **IMDB**: 7.0 [link](https://www.imdb.com/title/tt0083833/)
 
