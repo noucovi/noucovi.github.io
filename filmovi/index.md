@@ -1,0 +1,140 @@
+# Filmovi
+
+## Domaći
+
+### Pejzaži u magli (1984)
+
+<img src="./img/pejzazi.jpeg" width="20%">
+
+**IMDB**: 7.1 [link](https://www.imdb.com/title/tt0087898/)
+
+**Opis**: Naturalistic and almost documentary account of the heroin addicts in Belgrade, in the form of a sad life story of young girl and her wasted life.
+
+**Glumci**: Anamarija Petričević, Ljubomir Todorović, Tihomir Arsić, Milena Zupančić, Rade Šerbedžija, Bata Živojinović.
+
+### Nataša (2001)
+
+<img src="./img/natasa.jpg" width="20%">
+
+**IMDB**: 6.5 [link](https://www.imdb.com/title/tt0283504/)
+
+**Opis**: Seventeen year old Natasha, a daughter of a murdered police inspector, tries to discover her father's killers.
+
+**Glumci**: Tijana Kondić, Nikola Đuričko, Anica Dobra
+
+### Tri palme za dve bitange i ribicu (1998)
+
+<img src="./img/tripalme.jpg" width="20%">
+
+**IMDB**: 6.5 [link](https://www.imdb.com/title/tt0283504/)
+
+
+## Murican
+
+### Drinking Buddies (2013)
+
+<img src="./img/drinking-buddies.jpg" width="20%">
+
+**IMDB**: 6.1 [link](https://www.imdb.com/title/tt2265398/)
+
+**Opis**: Luke and Kate are coworkers at a brewery who spend their nights drinking and flirting heavily. One weekend away together with their significant others proves who really belongs together and who doesn't.
+
+**Glumci**: Olivia Wilde, Jake Johnson, Anna Kendrick, Ron Livingston
+
+### The Words (2012) (Plagijator)
+
+<img src="./img/plagijator.jpg" width="20%">
+
+**IMDB**: 7.0 [link](https://www.imdb.com/title/tt1840417/)
+
+**Opis**: A writer at the peak of his literary success discovers the steep price he must pay for stealing another man's work.
+
+**Glumci**: Bradley Cooper, Dennis Quaid, Olivia Wilde
+
+### Vanilla Sky (2001)
+
+<img src="./img/vanilla.png" width="20%">
+
+**IMDB**: 6.9 [link](https://www.imdb.com/title/tt0259711/)
+
+**Opis**: A self-indulgent and vain publishing magnate finds his privileged life upended after a vehicular accident with a resentful lover.
+
+**Glumci**: Tom Cruise, Penélope Cruz, Cameron Diaz
+
+### The Sunset Limited (2011)
+
+<img src="./img/sunset.jpg" width="20%">
+
+**IMDB**: 7.3 [link](https://www.imdb.com/title/tt1510938/)
+
+**Opis**: Through a chance encounter, two men of opposing ideologies deliberate spiritual, philosophical, and profound matters in a New York City apartment.
+
+**Glumci**: Samuel L. Jackson, Tommy Lee Jones
+
+### Diner (1982)
+
+<img src="./img/diner.jpg" width="20%">
+
+**IMDB**: 7.0 [link](https://www.imdb.com/title/tt0083833/)
+
+**Opis**: A group of college-age buddies struggle with their imminent passage into adulthood in 1959 Baltimore.
+
+**Glumci**: Steve Guttenberg, Mickey Rourke, Kevin Bacon
+
+### Dark City (1998)
+
+<img src="./img/diner.jpg" width="20%">
+
+**IMDB**: 7.0 [link](https://www.imdb.com/title/tt0083833/)
+
+**Opis**: A group of college-age buddies struggle with their imminent passage into adulthood in 1959 Baltimore.
+
+**Glumci**: Steve Guttenberg, Mickey Rourke, Kevin Bacon
+
+## Evropski
+
+### Pierrot le fou (1965)
+
+<img src="./img/darkcity.jpg" width="20%">
+
+**IMDB**: 7.6 [link](https://www.imdb.com/title/tt0118929/)
+
+**Opis**: A man struggles with memories of his past, which include a wife he cannot remember and a nightmarish world no one else ever seems to wake up from.
+
+**Glumci**: Rufus Sewell, Kiefer Sutherland, Jennifer Connelly
+
+
+## Anime
+
+### Akira (1988)
+
+<img src="./img/akira.webp" width="20%">
+
+**IMDB**: 8.0 [link](https://www.imdb.com/title/tt0094625/)
+
+**Opis**: A secret military project endangers Neo-Tokyo when it turns a teenage biker gang member into a rampaging psychic psychopath who can only be stopped by his best friend.
+
+
+## Kul animacije
+
+### The Man Who Planted Trees (Short 1987)
+
+<img src="./img/themanwhoplanted.jpg" width="20%">
+
+**IMDB**: 8.5 [link](https://www.imdb.com/title/tt0093488/)
+
+**Opis**: The story of a shepherd's single handed quest to re-forest a barren valley.
+
+
+## Ostalo
+
+### Survive Style 5+ (2004)
+
+<img src="./img/survive.jpg" width="20%">
+
+**IMDB**: 7.4 [link](https://www.imdb.com/title/tt0430651/)
+
+**Opis**: Five bizarre stories with no apparent connection to one and other eventually become intertwined, resulting in surreal circumstances.
+
+**Note**: Horor komedija kao
+
