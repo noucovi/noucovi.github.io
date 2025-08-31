@@ -8,35 +8,6 @@ body {
 
 # Filmovi
 
-## Domaći
-
-### Pejzaži u magli (1984)
-
-<img src="./img/pejzazi.jpeg" width="20%">
-
-**IMDB**: 7.1 [link](https://www.imdb.com/title/tt0087898/)
-
-**Opis**: Naturalistic and almost documentary account of the heroin addicts in Belgrade, in the form of a sad life story of young girl and her wasted life.
-
-**Glumci**: Anamarija Petričević, Ljubomir Todorović, Tihomir Arsić, Milena Zupančić, Rade Šerbedžija, Bata Živojinović.
-
-### Nataša (2001)
-
-<img src="./img/natasa.jpg" width="20%">
-
-**IMDB**: 6.5 [link](https://www.imdb.com/title/tt0283504/)
-
-**Opis**: Seventeen year old Natasha, a daughter of a murdered police inspector, tries to discover her father's killers.
-
-**Glumci**: Tijana Kondić, Nikola Đuričko, Anica Dobra
-
-### Tri palme za dve bitange i ribicu (1998)
-
-<img src="./img/tripalme.jpg" width="20%">
-
-**IMDB**: 6.5 [link](https://www.imdb.com/title/tt0283504/)
-
-
 ## Murican
 
 ### Drinking Buddies (2013)
@@ -99,11 +70,39 @@ body {
 
 **Glumci**: Steve Guttenberg, Mickey Rourke, Kevin Bacon
 
+## Domaći
+
+### Pejzaži u magli (1984)
+
+<img src="./img/pejzazi.jpeg" width="20%">
+
+**IMDB**: 7.1 [link](https://www.imdb.com/title/tt0087898/)
+
+**Opis**: Naturalistic and almost documentary account of the heroin addicts in Belgrade, in the form of a sad life story of young girl and her wasted life.
+
+**Glumci**: Anamarija Petričević, Ljubomir Todorović, Tihomir Arsić, Milena Zupančić, Rade Šerbedžija, Bata Živojinović.
+
+### Nataša (2001)
+
+<img src="./img/natasa.jpg" width="20%">
+
+**IMDB**: 6.5 [link](https://www.imdb.com/title/tt0283504/)
+
+**Opis**: Seventeen year old Natasha, a daughter of a murdered police inspector, tries to discover her father's killers.
+
+**Glumci**: Tijana Kondić, Nikola Đuričko, Anica Dobra
+
+### Tri palme za dve bitange i ribicu (1998)
+
+<img src="./img/tripalme.jpg" width="20%">
+
+**IMDB**: 6.5 [link](https://www.imdb.com/title/tt0283504/)
+
 ## Evropski
 
 ### Pierrot le fou (1965)
 
-<img src="./img/darkcity.jpg" width="20%">
+<img src="./img/pierrot.jpg" width="20%">
 
 **IMDB**: 7.6 [link](https://www.imdb.com/title/tt0118929/)
 
