@@ -137,4 +137,3 @@
 **Opis**: Five bizarre stories with no apparent connection to one and other eventually become intertwined, resulting in surreal circumstances.
 
 **Note**: Horor komedija kao
-
