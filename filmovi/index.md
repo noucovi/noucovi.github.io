@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### The Endless Summer 2 (1994)
+
+<img src="./img/0109729.jpg" width="20%">
+
+**IMDB**: 7.6 [link](https://www.imdb.com/title/tt0109729/)
+
+**Opis**: Two famous surfers, Patrick O' Connell and Robert "Wingnut" Weaver, set out for an international worldwide surfing safari adventure with documentary filmmaker Bruce Brown.
+
+**Glumci**: Patrick O'Connell, Robert 'Wingnut' Weaver, Robert August
+
 ### Cocktail (1988)
 
 <img src="./img/0094889.jpg" width="20%">
