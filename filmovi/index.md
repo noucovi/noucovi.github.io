@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### Can't Hardly Wait (1998)
+
+<img src="./img/0127723.jpg" width="20%">
+
+**IMDB**: 6.5 [link](https://www.imdb.com/title/tt0127723/)
+
+**Opis**: A complete graduating class, consisting of beautiful girls, geeks and promising footballers, assemble at a rich classmate's residence for a party. Interesting developments follow at the get-together.
+
+**Glumci**: Jennifer Love Hewitt, Ethan Embry, Charlie Korsmo
+
 ### The Endless Summer 2 (1994)
 
 <img src="./img/0109729.jpg" width="20%">
