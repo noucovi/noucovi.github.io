@@ -11,7 +11,7 @@ body {
 ## Murican
 ### Boat Trip (2002)
 
-<img src="./filmovi/img/0285462.jpg" width="20%">
+<img src="./img/0285462.jpg" width="20%">
 
 **IMDB**: 4.9 [link](https://www.imdb.com/title/tt0285462/)
 
@@ -21,7 +21,7 @@ body {
 
 ### Who's Afraid of Virginia Woolf? (1966)
 
-<img src="./filmovi/img/0061184.jpg" width="20%">
+<img src="./img/0061184.jpg" width="20%">
 
 **IMDB**: 8.0 [link](https://www.imdb.com/title/tt0061184/)
 
