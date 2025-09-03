@@ -173,6 +173,16 @@ body {
 
 
 ## Anime
+### Ghost in the Shell (2017)
+
+<img src="./img/1219827.jpg" width="20%">
+
+**IMDB**: 6.3 [link](https://www.imdb.com/title/tt1219827/)
+
+**Opis**: In the near future, Major Mira Killian is the first of her kind: A human saved from a terrible crash, who is cyber-enhanced to be a perfect soldier devoted to stopping the world's most dangerous criminals.
+
+**Glumci**: Scarlett Johansson, Pilou Asbæk, Takeshi Kitano
+
 
 ### Akira (1988)
 
