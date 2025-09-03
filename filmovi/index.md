@@ -91,6 +91,16 @@ body {
 **Glumci**: Steve Guttenberg, Mickey Rourke, Kevin Bacon
 
 ## Domaći
+### Normal People (2001)
+
+<img src="./img/0277928.jpg" width="20%">
+
+**IMDB**: 6.4 [link](https://www.imdb.com/title/tt0277928/)
+
+**Opis**: Suburbs of Belgrade - ghetto in the ghetto. Hopelessness, claustrophobia, post-war atmosphere, depression and loneliness of a generation in the last months of 2000th year and looks like it will never end. The lives of friends, all...
+
+**Glumci**: Nebojsa Glogovac, Ljubinka Klaric, Ivan Jevtovic
+
 
 ### Pejzaži u magli (1984)
 
