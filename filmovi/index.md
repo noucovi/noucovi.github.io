@@ -173,6 +173,16 @@ body {
 
 
 ## Anime
+### Ghost in the Shell (1995)
+
+<img src="./img/0113568.jpg" width="20%">
+
+**IMDB**: 7.9 [link](https://www.imdb.com/title/tt0113568/)
+
+**Opis**: A cyborg policewoman and her partner hunt a mysterious and powerful hacker called the Puppet Master.
+
+**Glumci**: Atsuko Tanaka, Iemasa Kayumi, Akio Ôtsuka
+
 ### Ghost in the Shell (2017)
 
 <img src="./img/1219827.jpg" width="20%">
