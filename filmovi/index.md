@@ -164,6 +164,16 @@ body {
 
 
 ## Ostalo
+### Amores Perros (2000)
+
+<img src="./img/0245712.jpg" width="20%">
+
+**IMDB**: 8.0 [link](https://www.imdb.com/title/tt0245712/)
+
+**Opis**: An amateur dog fighter, a supermodel, and a derelict assassin, all separately struggling to find love, find their lives transformed by a devastating car wreck in Mexico City.
+
+**Glumci**: Emilio Echevarría, Gael García Bernal, Goya Toledo
+
 
 ### Survive Style 5+ (2004)
 
