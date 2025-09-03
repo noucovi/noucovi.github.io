@@ -132,6 +132,16 @@ body {
 **Glumci**: Steve Guttenberg, Mickey Rourke, Kevin Bacon
 
 ## Domaći
+### Sta radis veceras (1988)
+
+<img src="./img/0181025.jpg" width="20%">
+
+**IMDB**: 6.7 [link](https://www.imdb.com/title/tt0181025/)
+
+**Opis**: Urban omnibus of three stories about problems of youth. Story I - Three young men from New Belgrade block spend their time together. After finishing their secondary school, they wait for a draft call, trying to get some money in a...
+
+**Glumci**: Nikola Kojo, Nenad Nenadovic, Vladan Dujovic
+
 ### Tomorrow Morning (2006)
 
 <img src="" width="20%">
