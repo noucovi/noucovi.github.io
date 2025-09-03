@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### Who's Afraid of Virginia Woolf? (1966)
+
+<img src="./filmovi/img/0061184.jpg" width="20%">
+
+**IMDB**: 8.0 [link](https://www.imdb.com/title/tt0061184/)
+
+**Opis**: A middle-aged New England associate professor and his wife, with the help of alcohol, use their young guests to fuel anguish and emotional pain towards each other over the course of a distressing night.
+
+**Glumci**: Elizabeth Taylor, Richard Burton, George Segal
+
 
 ### Drinking Buddies (2013)
 
