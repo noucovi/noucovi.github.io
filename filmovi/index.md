@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### Boat Trip (2002)
+
+<img src="./filmovi/img/0285462.jpg" width="20%">
+
+**IMDB**: 4.9 [link](https://www.imdb.com/title/tt0285462/)
+
+**Opis**: Two straight men mistakenly end up on a "gays only" cruise.
+
+**Glumci**: Cuba Gooding Jr., Horatio Sanz, Roselyn Sanchez
+
 ### Who's Afraid of Virginia Woolf? (1966)
 
 <img src="./filmovi/img/0061184.jpg" width="20%">
