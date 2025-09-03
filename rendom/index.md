@@ -22,10 +22,35 @@ Blockerx, cold turkey blocker
 
 Tomo Babovic
 
+Tijana Fisic
+
+Wavelength - drustvena igra
+
+Bionicle
+
+Brioni, Dior homme intense
+
+Laundry stripping
+
+Misfits, Normal People - serije
+
+Posteri: the jesus lizard, the jon spencer blues explosion
+
+Anime Pinocchio
+
+Trachtenberg method
+
+Takashii from Japan
+
+Inki and the Minah Bird
+
+[wiby.me](www.wiby.me)
+
 ## Podkasti
 
 Darknet Diaries – True stories from the dark side of the Internet.
 
+Behind the Bastards - dives in past the Cliffs Notes of the worst humans in history and exposes the bizarre realities of their lives.
 
 ## Povremeno proveriti
 
