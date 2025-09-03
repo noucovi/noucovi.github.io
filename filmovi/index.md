@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### Cocktail (1988)
+
+<img src="./img/0094889.jpg" width="20%">
+
+**IMDB**: 5.9 [link](https://www.imdb.com/title/tt0094889/)
+
+**Opis**: A talented New York City bartender takes a job at a bar in Jamaica and falls in love.
+
+**Glumci**: Tom Cruise, Bryan Brown, Elisabeth Shue
+
 ### Scarface (1932)
 
 <img src="./img/0023427.jpg" width="20%">
