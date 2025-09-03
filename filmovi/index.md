@@ -9,6 +9,17 @@ body {
 # Filmovi
 
 ## Murican
+### Scarface (1932)
+
+<img src="./img/0023427.jpg" width="20%">
+
+**IMDB**: 7.7 [link](https://www.imdb.com/title/tt0023427/)
+
+**Opis**: An ambitious and nearly insane violent gangster climbs the ladder of success in the mob, but his weaknesses prove to be his downfall.
+
+**Glumci**: Paul Muni, Ann Dvorak, Karen Morley
+**Note**: Pre-Code Hollywood
+
 ### Boat Trip (2002)
 
 <img src="./img/0285462.jpg" width="20%">
