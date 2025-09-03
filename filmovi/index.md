@@ -245,6 +245,16 @@ body {
 
 
 ## Ostalo
+### Eternal Summer (2006)
+
+<img src="./img/0885520.jpg" width="20%">
+
+**IMDB**: 6.9 [link](https://www.imdb.com/title/tt0885520/)
+
+**Opis**: Inseparable childhood friends Shou-heng and Cheng-shing have their world thrown into chaos when a new girl comes to town and falls for Shou-heng. Director Leste Chen's sensitive tale of friendship and yearning.
+
+**Glumci**: Hsiao-chuan Chang, Ray Chang, Kate Yeung
+
 ### Amores Perros (2000)
 
 <img src="./img/0245712.jpg" width="20%">
