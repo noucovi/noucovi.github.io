@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### The Menu (2022)
+
+<img src="./img/9764362.jpg" width="20%">
+
+**IMDB**: 7.2 [link](https://www.imdb.com/title/tt9764362/)
+
+**Opis**: A young couple travels to a remote island to eat at an exclusive restaurant where the chef has prepared a lavish menu, with some shocking surprises.
+
+**Glumci**: Ralph Fiennes, Anya Taylor-Joy, Nicholas Hoult
+
 ### Can't Hardly Wait (1998)
 
 <img src="./img/0127723.jpg" width="20%">
