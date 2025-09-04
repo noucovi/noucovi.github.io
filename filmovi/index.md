@@ -48,6 +48,7 @@ body {
 **Opis**: An ambitious and nearly insane violent gangster climbs the ladder of success in the mob, but his weaknesses prove to be his downfall.
 
 **Glumci**: Paul Muni, Ann Dvorak, Karen Morley
+
 **Note**: Pre-Code Hollywood
 
 ### Boat Trip (2002)
