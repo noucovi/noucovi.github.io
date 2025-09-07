@@ -9,15 +9,6 @@ body {
 # Filmovi
 
 ## Murican
-### Black Orpheus (1959)
-
-<img src="./img/0053146.jpg" width="20%">
-
-**IMDB**: 7.4 [link](https://www.imdb.com/title/tt0053146/)
-
-**Opis**: A retelling of the Orpheus and Eurydice myth, set during the time of the Carnaval in Rio de Janeiro.
-
-**Glumci**: Breno Mello, Marpessa Dawn, Lourdes de Oliveira
 
 ### City Lights (1931)
 
@@ -266,6 +257,17 @@ body {
 
 
 ## Ostalo
+
+### Black Orpheus (1959)
+
+<img src="./img/0053146.jpg" width="20%">
+
+**IMDB**: 7.4 [link](https://www.imdb.com/title/tt0053146/)
+
+**Opis**: A retelling of the Orpheus and Eurydice myth, set during the time of the Carnaval in Rio de Janeiro.
+
+**Glumci**: Breno Mello, Marpessa Dawn, Lourdes de Oliveira
+
 ### Eternal Summer (2006)
 
 <img src="./img/0885520.jpg" width="20%">

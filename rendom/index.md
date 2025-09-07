@@ -32,8 +32,6 @@ Brioni, Dior homme intense
 
 Laundry stripping
 
-Misfits, Normal People - serije
-
 Posteri: the jesus lizard, the jon spencer blues explosion
 
 Anime Pinocchio
@@ -52,6 +50,16 @@ Darknet Diaries – True stories from the dark side of the Internet.
 
 Behind the Bastards - dives in past the Cliffs Notes of the worst humans in history and exposes the bizarre realities of their lives.
 
+## Serije
+
+Misfits
+
+Normal People
+
 ## Povremeno proveriti
 
 Unavailable video (nzm šta je): [link](https://youtu.be/Xgt6ONSd7OQ)
+
+## Kamere
+
+Panasonic hi8 camcorder
