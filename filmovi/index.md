@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### Everything You Always Wanted to Know About Sex * But Were Afraid to Ask (1972)
+
+<img src="./img/0068555.jpg" width="20%">
+
+**IMDB**: 6.7 [link](https://www.imdb.com/title/tt0068555/)
+
+**Opis**: Seven stories are trying to answer the question: what is sex? Or maybe they are not trying.
+
+**Glumci**: Woody Allen, Gene Wilder, Louise Lasser
+
 ### Vicky Cristina Barcelona (2008)
 
 <img src="./img/0497465.jpg" width="20%">
