@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### Thoroughly Modern Millie (1967)
+
+<img src="./img/0062362.jpg" width="20%">
+
+**IMDB**: 6.9 [link](https://www.imdb.com/title/tt0062362/)
+
+**Opis**: In New York City during the Roaring Twenties, would-be flapper Millie Dillmount's self-appointed mission to marry her boss is complicated by white slavers and true love.
+
+**Glumci**: Julie Andrews, James Fox, Mary Tyler Moore
+
 ### Blue Ruin (2013)
 
 <img src="./img/2359024.jpg" width="20%">
