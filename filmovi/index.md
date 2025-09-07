@@ -332,6 +332,16 @@ body {
 **IMDB**: 6.5 [link](https://www.imdb.com/title/tt0283504/)
 
 ## Evropski
+### Playtime (1967)
+
+<img src="./img/0062136.jpg" width="20%">
+
+**IMDB**: 7.8 [link](https://www.imdb.com/title/tt0062136/)
+
+**Opis**: Monsieur Hulot curiously wanders around a high-tech Paris, paralleling a trip with a group of American tourists. Meanwhile, a nightclub/restaurant prepares its opening night, but it's still under construction.
+
+**Glumci**: Jacques Tati, Barbara Dennek, Rita Maiden
+
 ### The Legend of 1900 (1998)
 
 <img src="./img/0120731.jpg" width="20%">
