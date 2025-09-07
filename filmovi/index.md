@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### Coyote Ugly (2000)
+
+<img src="./img/0200550.jpg" width="20%">
+
+**IMDB**: 5.8 [link](https://www.imdb.com/title/tt0200550/)
+
+**Opis**: Aspiring songwriter Violet Sanford, after getting a job at a women-run NYC bar that teases its male patrons, comes out of her shell.
+
+**Glumci**: Piper Perabo, Adam Garcia, John Goodman
+
 ### Everything You Always Wanted to Know About Sex * But Were Afraid to Ask (1972)
 
 <img src="./img/0068555.jpg" width="20%">
