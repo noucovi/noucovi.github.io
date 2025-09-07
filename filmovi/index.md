@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### The Hot Spot (1990)
+
+<img src="./img/0099797.jpg" width="20%">
+
+**IMDB**: 6.4 [link](https://www.imdb.com/title/tt0099797/)
+
+**Opis**: Upon arriving to a small town, a drifter quickly gets into trouble with the local authorities - and the local women - after he robs a bank.
+
+**Glumci**: Don Johnson, Virginia Madsen, Jennifer Connelly
+
 ### Coyote Ugly (2000)
 
 <img src="./img/0200550.jpg" width="20%">
