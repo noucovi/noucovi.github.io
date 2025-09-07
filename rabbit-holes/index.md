@@ -1,5 +1,9 @@
 # Rabbit holes
 
-### Jason Derek Brown
+Jason Derek Brown: FBI Case Review Podcast: [link](https://youtu.be/o8uK6j1Lezk?si=WMEm1dpK7zF-AiKr)
 
-**FBI Case Review Podcast**: [link](https://youtu.be/o8uK6j1Lezk?si=WMEm1dpK7zF-AiKr)
+Justin Berry
+
+TV Tropes
+
+Aesthetics - [link](https://cari.institute/aesthetics)
