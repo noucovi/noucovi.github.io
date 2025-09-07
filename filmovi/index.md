@@ -214,6 +214,16 @@ body {
 **Glumci**: Steve Guttenberg, Mickey Rourke, Kevin Bacon
 
 ## Domaći
+### Mlad i zdrav kao ruza (1971)
+
+<img src="" width="20%">
+
+**IMDB**: 7.2 [link](https://www.imdb.com/title/tt0180841/)
+
+**Opis**: Follows Stevan Nikolic, "Stiv", petty criminal born in Belgrade, always problematic, enemy of country's regime, influenced by society and movies(for example Godard's, even the movie looks like "Breathless" a little bit and Godard ...
+
+**Glumci**: Dragan Nikolic, Aleksandar Gavric, María Baxa
+
 ### How I Learned to Fly (2022)
 
 <img src="./img/12885338.jpg" width="20%">
