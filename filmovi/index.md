@@ -346,6 +346,16 @@ body {
 
 
 ## Kul animacije
+### Everybody Rides the Carousel (1976)
+
+<img src="./img/0220450.jpg" width="20%">
+
+**IMDB**: 6.6 [link](https://www.imdb.com/title/tt0220450/)
+
+**Opis**: Show is an animated tracing of the eight stages of life, from infancy to old age, as they have been described in the works of psychoanalyst Erik H. Erikson.
+
+**Glumci**: Alvin Epstein, Judith Coburn, Ray Hubley
+
 ### Persepolis (2007)
 
 <img src="./img/0808417.jpg" width="20%">
