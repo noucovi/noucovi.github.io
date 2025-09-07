@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### He's Just Not That Into You (2009)
+
+<img src="./img/1001508.jpg" width="20%">
+
+**IMDB**: 6.4 [link](https://www.imdb.com/title/tt1001508/)
+
+**Opis**: This Baltimore-set movie of interconnecting story arcs deals with the challenges of reading or misreading human behavior.
+
+**Glumci**: Ginnifer Goodwin, Jennifer Aniston, Jennifer Connelly
+
 ### Woodstock (1970)
 
 <img src="./img/0066580.jpg" width="20%">
