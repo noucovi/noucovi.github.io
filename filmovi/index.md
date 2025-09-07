@@ -267,13 +267,15 @@ body {
 
 <img src="./img/darkcity.jpg" width="20%">
 
-**IMDB**: 7.0 [link](https://www.imdb.com/title/tt0083833/)
+**IMDB**: 7.6 [link](https://www.imdb.com/title/tt0118929/)
 
-**Opis**: A group of college-age buddies struggle with their imminent passage into adulthood in 1959 Baltimore.
+**Opis**: A man struggles with memories of his past, which include a wife he cannot remember and a nightmarish world no one else ever seems to wake up from.
 
-**Glumci**: Steve Guttenberg, Mickey Rourke, Kevin Bacon
+**Glumci**: Rufus Sewell, Kiefer Sutherland, Jennifer Connelly
+
 
 ## Domaći
+
 ### Pocetni udarac (1990)
 
 <img src="./img/0188149.jpg" width="20%">
