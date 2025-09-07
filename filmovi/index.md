@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### Gone with the Wind (1939)
+
+<img src="./img/0031381.jpg" width="20%">
+
+**IMDB**: 8.2 [link](https://www.imdb.com/title/tt0031381/)
+
+**Opis**: A sheltered and manipulative Southern belle and a roguish profiteer face off in a turbulent romance as the society around them crumbles with the end of slavery and is rebuilt during the Civil War and Reconstruction periods.
+
+**Glumci**: Clark Gable, Vivien Leigh, Thomas Mitchell
+
 ### Thoroughly Modern Millie (1967)
 
 <img src="./img/0062362.jpg" width="20%">
