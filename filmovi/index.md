@@ -477,6 +477,16 @@ body {
 
 
 ## Ostalo
+### Shaolin and Wu Tang (1983)
+
+<img src="./img/0083062.jpg" width="20%">
+
+**IMDB**: 7.1 [link](https://www.imdb.com/title/tt0083062/)
+
+**Opis**: Two friends from rival schools are turned against one another by a jealous chief who wants to eliminate those whose fighting styles may rival his own.
+
+**Glumci**: Chia-Hui Liu, Adam Cheng, Li Ching
+
 ### Chungking Express (1994)
 
 <img src="./img/0109424.jpg" width="20%">
