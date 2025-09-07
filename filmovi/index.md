@@ -326,6 +326,16 @@ body {
 
 
 ## Kul animacije
+### Persepolis (2007)
+
+<img src="./img/0808417.jpg" width="20%">
+
+**IMDB**: 8.0 [link](https://www.imdb.com/title/tt0808417/)
+
+**Opis**: A precocious and outspoken Iranian girl grows up during the Islamic Revolution.
+
+**Glumci**: Chiara Mastroianni, Catherine Deneuve, Gena Rowlands
+
 
 ### The Man Who Planted Trees (Short 1987)
 
