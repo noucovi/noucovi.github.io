@@ -174,6 +174,16 @@ body {
 **Glumci**: Steve Guttenberg, Mickey Rourke, Kevin Bacon
 
 ## Domaći
+### The Beauty of Vice (1986)
+
+<img src="./img/0091398.jpg" width="20%">
+
+**IMDB**: 8.0 [link](https://www.imdb.com/title/tt0091398/)
+
+**Opis**: A conservative couple decides to leave their rural community and the wife reluctantly takes a job at a naturist resort. Soon their conservative lifestyle starts colliding with the unconventional one.
+
+**Glumci**: Mira Furlan, Milutin 'Mima' Karadzic, Petar Bozovic
+
 ### Vlak bez voznog reda (1959)
 
 <img src="" width="20%">
