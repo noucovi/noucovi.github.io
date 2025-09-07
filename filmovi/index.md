@@ -244,6 +244,16 @@ body {
 **Glumci**: Steve Guttenberg, Mickey Rourke, Kevin Bacon
 
 ## Domaći
+### Pocetni udarac (1990)
+
+<img src="./img/0188149.jpg" width="20%">
+
+**IMDB**: 7.1 [link](https://www.imdb.com/title/tt0188149/)
+
+**Opis**: A group of students with varying family backgrounds begin to question their lives and the hypocritical values of their corrupt socialist society. Their decision to follow their own ideals brings them in disrepute with those closes...
+
+**Glumci**: Nikola Kojo, Anita Mancic, Danilo Lazovic
+
 ### Tomorrow Morning (2006)
 
 <img src="" width="20%">
