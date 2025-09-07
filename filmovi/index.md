@@ -367,6 +367,16 @@ body {
 
 
 ## Ostalo
+### Perfect Days (2023)
+
+<img src="./img/27503384.jpg" width="20%">
+
+**IMDB**: 7.9 [link](https://www.imdb.com/title/tt27503384/)
+
+**Opis**: Hirayama cleans public toilets in Tokyo, lives his life in simplicity and daily tranquility. Some encounters also lead him to reflect on himself.
+
+**Glumci**: Kôji Yakusho, Tokio Emoto, Arisa Nakano
+
 ### Workingman's Death (2005)
 
 <img src="./img/0478331.jpg" width="20%">
