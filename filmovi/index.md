@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### Woodstock (1970)
+
+<img src="./img/0066580.jpg" width="20%">
+
+**IMDB**: 8.1 [link](https://www.imdb.com/title/tt0066580/)
+
+**Opis**: Oscar-winning musical chronicle that brilliantly captures the three-day rock concert and celebration of peace and love that became a capstone for the Sixties.
+
+**Glumci**: Joan Baez, Richie Havens, Roger Daltrey
+
 ### The Talented Mr. Ripley (1999)
 
 <img src="./img/0134119.jpg" width="20%">
