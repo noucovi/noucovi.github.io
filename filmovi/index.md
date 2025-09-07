@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### Vicky Cristina Barcelona (2008)
+
+<img src="./img/0497465.jpg" width="20%">
+
+**IMDB**: 7.1 [link](https://www.imdb.com/title/tt0497465/)
+
+**Opis**: Two friends on a summer holiday in Spain become enamored with the same painter, unaware that his ex-wife, with whom he has a tempestuous relationship, is about to re-enter the picture.
+
+**Glumci**: Rebecca Hall, Scarlett Johansson, Javier Bardem
+
 ### Gone with the Wind (1939)
 
 <img src="./img/0031381.jpg" width="20%">
