@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### City Lights (1931)
+
+<img src="./img/0021749.jpg" width="20%">
+
+**IMDB**: 8.5 [link](https://www.imdb.com/title/tt0021749/)
+
+**Opis**: With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically.
+
+**Glumci**: Charles Chaplin, Virginia Cherrill, Florence Lee
+
 ### The Menu (2022)
 
 <img src="./img/9764362.jpg" width="20%">
