@@ -164,6 +164,16 @@ body {
 **Glumci**: Steve Guttenberg, Mickey Rourke, Kevin Bacon
 
 ## Domaći
+### My Morning Laughter (2019)
+
+<img src="./img/8403038.jpg" width="20%">
+
+**IMDB**: 7.1 [link](https://www.imdb.com/title/tt8403038/)
+
+**Opis**: A drama with underlying humor about the shame and despair that 30 year old boy feels on his way to losing virginity.
+
+**Glumci**: Filip Djuric, Ivana Vukovic, Jasna Djuricic
+
 ### Sta radis veceras (1988)
 
 <img src="./img/0181025.jpg" width="20%">
