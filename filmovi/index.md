@@ -277,6 +277,16 @@ body {
 
 
 ## Ostalo
+### Filantropica (2002)
+
+<img src="./img/0314067.jpg" width="20%">
+
+**IMDB**: 8.4 [link](https://www.imdb.com/title/tt0314067/)
+
+**Opis**: Ovidiu, a high-school teacher looking for an extra buck, finds an unexpected way to earn easy money.
+
+**Glumci**: Mircea Diaconu, Gheorghe Dinica, Mara Nicolescu
+
 
 ### Black Orpheus (1959)
 
