@@ -357,6 +357,16 @@ body {
 
 
 ## Ostalo
+### Workingman's Death (2005)
+
+<img src="./img/0478331.jpg" width="20%">
+
+**IMDB**: 7.9 [link](https://www.imdb.com/title/tt0478331/)
+
+**Opis**: A documentary on the extremes to which workers will go to earn a living.
+
+**Glumci**: N/A
+
 ### Filantropica (2002)
 
 <img src="./img/0314067.jpg" width="20%">
