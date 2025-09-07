@@ -417,6 +417,16 @@ body {
 
 
 ## Ostalo
+### Chungking Express (1994)
+
+<img src="./img/0109424.jpg" width="20%">
+
+**IMDB**: 7.9 [link](https://www.imdb.com/title/tt0109424/)
+
+**Opis**: Two melancholic Hong Kong policemen fall in love: one with a mysterious female underworld figure, the other with a beautiful and ethereal waitress at a late-night restaurant he frequents.
+
+**Glumci**: Brigitte Lin, Takeshi Kaneshiro, Tony Leung Chiu-wai
+
 ### Perfect Days (2023)
 
 <img src="./img/27503384.jpg" width="20%">
