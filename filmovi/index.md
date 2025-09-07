@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### Butch Cassidy and the Sundance Kid (1969)
+
+<img src="./img/0064115.jpg" width="20%">
+
+**IMDB**: 8.0 [link](https://www.imdb.com/title/tt0064115/)
+
+**Opis**: In 1890s Wyoming, Butch Cassidy and The Sundance Kid lead a band of outlaws. When a train robbery goes wrong, they find themselves on the run with a posse hard on their heels..
+
+**Glumci**: Paul Newman, Robert Redford, Katharine Ross
+
 ### The Hot Spot (1990)
 
 <img src="./img/0099797.jpg" width="20%">
