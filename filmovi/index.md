@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### Blue Ruin (2013)
+
+<img src="./img/2359024.jpg" width="20%">
+
+**IMDB**: 7.1 [link](https://www.imdb.com/title/tt2359024/)
+
+**Opis**: A mysterious outsider's quiet life is turned upside down when he returns to his childhood home to carry out an act of vengeance. Proving himself an amateur assassin, he winds up in a brutal fight to protect his estranged family.
+
+**Glumci**: Macon Blair, Devin Ratray, Amy Hargreaves
+
 ### He's Just Not That Into You (2009)
 
 <img src="./img/1001508.jpg" width="20%">
