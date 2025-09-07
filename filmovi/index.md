@@ -312,6 +312,16 @@ body {
 **IMDB**: 6.5 [link](https://www.imdb.com/title/tt0283504/)
 
 ## Evropski
+### The Legend of 1900 (1998)
+
+<img src="./img/0120731.jpg" width="20%">
+
+**IMDB**: 8.0 [link](https://www.imdb.com/title/tt0120731/)
+
+**Opis**: A baby boy discovered on an ocean liner in 1900 grows into a musical prodigy, never setting foot on land.
+
+**Glumci**: Tim Roth, Pruitt Taylor Vince, Mélanie Thierry
+
 
 ### Pierrot le fou (1965)
 
