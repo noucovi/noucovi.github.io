@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### The Talented Mr. Ripley (1999)
+
+<img src="./img/0134119.jpg" width="20%">
+
+**IMDB**: 7.4 [link](https://www.imdb.com/title/tt0134119/)
+
+**Opis**: In late 1950s New York, a young underachiever named Tom Ripley is sent to Italy to retrieve Dickie Greenleaf, a rich and spoiled millionaire playboy. But when the errand fails, Ripley takes extreme measures.
+
+**Glumci**: Matt Damon, Gwyneth Paltrow, Jude Law
+
 
 ### City Lights (1931)
 
