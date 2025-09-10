@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### Winnetou (1963)
+
+<img src="./img/0057687.jpg" width="20%">
+
+**IMDB**: 6.8 [link](https://www.imdb.com/title/tt0057687/)
+
+**Opis**: When violent conflict breaks out between greedy railroaders and a tribe of Mescalero Apaches, only two men, destined to be blood brothers, can prevent all-out war: chief's son Winnetou and German engineer Old Shatterhand.
+
+**Glumci**: Lex Barker, Pierre Brice, Marie Versini
+
 ### The Spanish Prisoner (1997)
 
 <img src="./img/0120176.jpg" width="20%">
