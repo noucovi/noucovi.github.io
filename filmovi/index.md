@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### Don't Worry Darling (2022)
+
+<img src="./img/10731256.jpg" width="20%">
+
+**IMDB**: 6.3 [link](https://www.imdb.com/title/tt10731256/)
+
+**Opis**: While her husband leaves home everyday to work in a top secret facility, a young 1950s housewife begins to question her life when she notices strange behavior from the other wives in the neighborhood.
+
+**Glumci**: Florence Pugh, Harry Styles, Chris Pine
+
 ### Winnetou (1963)
 
 <img src="./img/0057687.jpg" width="20%">
