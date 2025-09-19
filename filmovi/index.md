@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### My Dinner with Andre (1981)
+
+<img src="./img/0082783.jpg" width="20%">
+
+**IMDB**: 7.7 [link](https://www.imdb.com/title/tt0082783/)
+
+**Opis**: Two old friends meet for dinner; as one tells anecdotes detailing his experiences, the other notices their differing worldviews.
+
+**Glumci**: Andre Gregory, Wallace Shawn, Jean Lenauer
+
 ### Old School (2003)
 
 <img src="./img/0302886.jpg" width="20%">
