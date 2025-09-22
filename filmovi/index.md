@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### Eraserhead (1977)
+
+<img src="./img/0074486.jpg" width="20%">
+
+**IMDB**: 7.3 [link](https://www.imdb.com/title/tt0074486/)
+
+**Opis**: Henry Spencer tries to survive his industrial environment, his angry girlfriend, and the unbearable screams of his newborn mutant child.
+
+**Glumci**: Jack Nance, Charlotte Stewart, Allen Joseph
+
 ### My Dinner with Andre (1981)
 
 <img src="./img/0082783.jpg" width="20%">
