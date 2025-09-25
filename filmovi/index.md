@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### Walk on the Wild Side (1962)
+
+<img src="./img/0056671.jpg" width="20%">
+
+**IMDB**: 6.7 [link](https://www.imdb.com/title/tt0056671/)
+
+**Opis**: Poor lovesick white-trash Dove Linkhorn arrives in New Orleans searching for his former girlfriend Hallie Gerard, an artist who works in The Doll House brothel, whose madam Jo Courtney considers her girls to be her property.
+
+**Glumci**: Laurence Harvey, Capucine, Jane Fonda
+
 ### Eraserhead (1977)
 
 <img src="./img/0074486.jpg" width="20%">
