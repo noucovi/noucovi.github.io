@@ -559,6 +559,16 @@ body {
 
 
 ## Ostalo
+### I Am Cuba (1964)
+
+<img src="./img/0058604.jpg" width="20%">
+
+**IMDB**: 8.2 [link](https://www.imdb.com/title/tt0058604/)
+
+**Opis**: Four vignettes about the lives of the Cuban people set during the pre-revolutionary era.
+
+**Glumci**: Sergio Corrieri, Salvador Wood, José Gallardo
+
 ### Shaolin and Wu Tang (1983)
 
 <img src="./img/0083062.jpg" width="20%">
