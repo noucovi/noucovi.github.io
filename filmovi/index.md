@@ -9,6 +9,66 @@ body {
 # Filmovi
 
 ## Murican
+### Walk on the Wild Side (1962)
+
+<img src="./img/0056671.jpg" width="20%">
+
+**IMDB**: 6.7 [link](https://www.imdb.com/title/tt0056671/)
+
+**Opis**: Poor lovesick white-trash Dove Linkhorn arrives in New Orleans searching for his former girlfriend Hallie Gerard, an artist who works in The Doll House brothel, whose madam Jo Courtney considers her girls to be her property.
+
+**Glumci**: Laurence Harvey, Capucine, Jane Fonda
+
+### Eraserhead (1977)
+
+<img src="./img/0074486.jpg" width="20%">
+
+**IMDB**: 7.3 [link](https://www.imdb.com/title/tt0074486/)
+
+**Opis**: Henry Spencer tries to survive his industrial environment, his angry girlfriend, and the unbearable screams of his newborn mutant child.
+
+**Glumci**: Jack Nance, Charlotte Stewart, Allen Joseph
+
+### My Dinner with Andre (1981)
+
+<img src="./img/0082783.jpg" width="20%">
+
+**IMDB**: 7.7 [link](https://www.imdb.com/title/tt0082783/)
+
+**Opis**: Two old friends meet for dinner; as one tells anecdotes detailing his experiences, the other notices their differing worldviews.
+
+**Glumci**: Andre Gregory, Wallace Shawn, Jean Lenauer
+
+### Old School (2003)
+
+<img src="./img/0302886.jpg" width="20%">
+
+**IMDB**: 7.0 [link](https://www.imdb.com/title/tt0302886/)
+
+**Opis**: Three friends attempt to recapture their glory days by opening up a fraternity near their alma mater.
+
+**Glumci**: Luke Wilson, Vince Vaughn, Will Ferrell
+
+### Don't Worry Darling (2022)
+
+<img src="./img/10731256.jpg" width="20%">
+
+**IMDB**: 6.3 [link](https://www.imdb.com/title/tt10731256/)
+
+**Opis**: While her husband leaves home everyday to work in a top secret facility, a young 1950s housewife begins to question her life when she notices strange behavior from the other wives in the neighborhood.
+
+**Glumci**: Florence Pugh, Harry Styles, Chris Pine
+
+### Winnetou (1963)
+
+<img src="./img/0057687.jpg" width="20%">
+
+**IMDB**: 6.8 [link](https://www.imdb.com/title/tt0057687/)
+
+**Opis**: When violent conflict breaks out between greedy railroaders and a tribe of Mescalero Apaches, only two men, destined to be blood brothers, can prevent all-out war: chief's son Winnetou and German engineer Old Shatterhand.
+
+**Glumci**: Lex Barker, Pierre Brice, Marie Versini
+
 ### The Spanish Prisoner (1997)
 
 <img src="./img/0120176.jpg" width="20%">
@@ -479,6 +539,16 @@ body {
 
 
 ## Ostalo
+### I Am Cuba (1964)
+
+<img src="./img/0058604.jpg" width="20%">
+
+**IMDB**: 8.2 [link](https://www.imdb.com/title/tt0058604/)
+
+**Opis**: Four vignettes about the lives of the Cuban people set during the pre-revolutionary era.
+
+**Glumci**: Sergio Corrieri, Salvador Wood, José Gallardo
+
 ### Shaolin and Wu Tang (1983)
 
 <img src="./img/0083062.jpg" width="20%">
