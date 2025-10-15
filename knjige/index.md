@@ -18,9 +18,15 @@ Momo Kapor - Foliranti
 
 Kralj Ibi
 
+Simulacra and Simulation
+
+Cujte Srbi cuvajte se sebe
+
 ## Autori
 
 Damon Runyon
+
+Susan Sontag - On Photography
 
 
 ## Stripovi

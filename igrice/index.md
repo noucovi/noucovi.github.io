@@ -12,6 +12,8 @@ Leisure Suit Larry
 
 Schedule I
 
+Eternal afternoon
+
 ## Multi
 
 Backseat Drivers

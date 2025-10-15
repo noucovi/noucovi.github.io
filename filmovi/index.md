@@ -140,15 +140,6 @@ body {
 
 **Glumci**: Charles Chaplin, Virginia Cherrill, Florence Lee
 
-### The Menu (2022)
-
-<img src="./img/9764362.jpg" width="20%">
-
-**IMDB**: 7.2 [link](https://www.imdb.com/title/tt9764362/)
-
-**Opis**: A young couple travels to a remote island to eat at an exclusive restaurant where the chef has prepared a lavish menu, with some shocking surprises.
-
-**Glumci**: Ralph Fiennes, Anya Taylor-Joy, Nicholas Hoult
 
 ### Can't Hardly Wait (1998)
 
@@ -211,17 +202,6 @@ body {
 **Opis**: A middle-aged New England associate professor and his wife, with the help of alcohol, use their young guests to fuel anguish and emotional pain towards each other over the course of a distressing night.
 
 **Glumci**: Elizabeth Taylor, Richard Burton, George Segal
-
-
-### Drinking Buddies (2013)
-
-<img src="./img/drinking-buddies.jpg" width="20%">
-
-**IMDB**: 6.1 [link](https://www.imdb.com/title/tt2265398/)
-
-**Opis**: Luke and Kate are coworkers at a brewery who spend their nights drinking and flirting heavily. One weekend away together with their significant others proves who really belongs together and who doesn't.
-
-**Glumci**: Olivia Wilde, Jake Johnson, Anna Kendrick, Ron Livingston
 
 ### The Words (2012) (Plagijator)
 

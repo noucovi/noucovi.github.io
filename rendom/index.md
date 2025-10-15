@@ -68,6 +68,8 @@ Zivko Nikolic
 
 Cover na diskovima - [link](https://www.reddit.com/r/PiratedGames/comments/1ljrmqy/saw_this_on_tiktok_and_thought_this_is_really_neat/)
 
+Medabots
+
 ## Podkasti
 
 Darknet Diaries – True stories from the dark side of the Internet.
