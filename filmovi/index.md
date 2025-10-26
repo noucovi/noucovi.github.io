@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### The Adults (2023)
+
+<img src="./img/26443107.jpg" width="20%">
+
+**IMDB**: 5.7 [link](https://www.imdb.com/title/tt26443107/)
+
+**Opis**: The plan to make a trip back home as short as possible begins to unravel as Eric finds himself balancing the challenging relationship with his two sisters and his addiction to a local poker game.
+
+**Glumci**: Michael Cera, Hannah Gross, Sophia Lillis
+
 ### Walk on the Wild Side (1962)
 
 <img src="./img/0056671.jpg" width="20%">
