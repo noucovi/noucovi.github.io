@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### Swingers (1996)
+
+<img src="./img/0117802.jpg" width="20%">
+
+**IMDB**: 7.2 [link](https://www.imdb.com/title/tt0117802/)
+
+**Opis**: A wannabe actor has a hard time moving on from a break-up, but he is lucky to have supportive friends.
+
+**Glumci**: Vince Vaughn, Heather Graham, Jon Favreau
+
 ### The Adults (2023)
 
 <img src="./img/26443107.jpg" width="20%">
