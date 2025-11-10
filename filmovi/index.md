@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### Last Tango in Paris (1972)
+
+<img src="./img/0070849.jpg" width="20%">
+
+**IMDB**: 6.8 [link](https://www.imdb.com/title/tt0070849/)
+
+**Opis**: A young Parisian woman meets a middle-aged American businessman who demands their clandestine relationship be based only on sex.
+
+**Glumci**: Marlon Brando, Maria Schneider, Maria Michi
+
 ### Swingers (1996)
 
 <img src="./img/0117802.jpg" width="20%">
