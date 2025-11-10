@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### Encino Man (1992)
+
+<img src="./img/0104187.jpg" width="20%">
+
+**IMDB**: 5.9 [link](https://www.imdb.com/title/tt0104187/)
+
+**Opis**: When they find a frozen caveman in their back yard, two high school outcasts thaw him and introduce him to modern life while he in turn gets them to actually enjoy life.
+
+**Glumci**: Sean Astin, Brendan Fraser, Pauly Shore
+
 ### Last Tango in Paris (1972)
 
 <img src="./img/0070849.jpg" width="20%">
