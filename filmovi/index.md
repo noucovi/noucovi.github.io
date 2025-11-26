@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### Paris, Texas (1984)
+
+<img src="./img/0087884.jpg" width="20%">
+
+**IMDB**: 8.1 [link](https://www.imdb.com/title/tt0087884/)
+
+**Opis**: Travis Henderson, an aimless drifter who has been missing for four years, wanders out of the desert and must reconnect with society, himself, his life, and his family.
+
+**Glumci**: Harry Dean Stanton, Nastassja Kinski, Dean Stockwell
+
 ### Encino Man (1992)
 
 <img src="./img/0104187.jpg" width="20%">
