@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### Materialists (2025)
+
+<img src="./img/30253473.jpg" width="20%">
+
+**IMDB**: 6.3 [link](https://www.imdb.com/title/tt30253473/)
+
+**Opis**: An ambitious young New York City matchmaker finds herself torn between the perfect match and her imperfect ex.
+
+**Glumci**: Dakota Johnson, Chris Evans, Pedro Pascal
+
 ### The Princess Diaries (2001)
 
 <img src="./img/0247638.jpg" width="20%">
