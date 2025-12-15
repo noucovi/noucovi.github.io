@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### The Graduate (1967)
+
+<img src="./img/0061722.jpg" width="20%">
+
+**IMDB**: 8.0 [link](https://www.imdb.com/title/tt0061722/)
+
+**Opis**: A disillusioned college graduate finds himself torn between his older lover and her daughter.
+
+**Glumci**: Dustin Hoffman, Anne Bancroft, Katharine Ross
+
 ### Great Expectations (1998)
 
 <img src="./img/0119223.jpg" width="20%">
