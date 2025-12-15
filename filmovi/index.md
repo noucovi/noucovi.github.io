@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### The Princess Diaries (2001)
+
+<img src="./img/0247638.jpg" width="20%">
+
+**IMDB**: 6.4 [link](https://www.imdb.com/title/tt0247638/)
+
+**Opis**: Mia Thermopolis has just found out that she is the heir apparent to the throne of Genovia. With her friends Lilly and Michael Moscovitz in tow, she tries to navigate through the rest of her sixteenth year.
+
+**Glumci**: Julie Andrews, Anne Hathaway, Hector Elizondo
+
 ### Paris, Texas (1984)
 
 <img src="./img/0087884.jpg" width="20%">
