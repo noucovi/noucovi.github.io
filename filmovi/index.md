@@ -405,6 +405,16 @@ body {
 
 
 ## Domaći
+### The Girl in the Park (1968)
+
+<img src="" width="20%">
+
+**IMDB**: 6.6 [link](https://www.imdb.com/title/tt0180287/)
+
+**Opis**: The story of the birth of a love between two young people, about its duration, with all the difficulties and beauty that it brings, the closing of that love because of conflicts with exaggerated dynamics and false values of contem...
+
+**Glumci**: Gojko Drulovic, Neda Arneric, Miodrag Petrovic-Ckalja
+
 ### WR: Mysteries of the Organism (1971)
 
 <img src="./img/0067958.jpg" width="20%">
