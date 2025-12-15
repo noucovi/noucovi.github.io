@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### The Man Who Shot Liberty Valance (1962)
+
+<img src="./img/0056217.jpg" width="20%">
+
+**IMDB**: 8.1 [link](https://www.imdb.com/title/tt0056217/)
+
+**Opis**: A senator returns to a Western town for the funeral of an old friend and tells the story of his origins.
+
+**Glumci**: James Stewart, John Wayne, Vera Miles
+
 ### Lawrence of Arabia (1962)
 
 <img src="./img/0056172.jpg" width="20%">
