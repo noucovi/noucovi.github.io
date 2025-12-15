@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### Lawrence of Arabia (1962)
+
+<img src="./img/0056172.jpg" width="20%">
+
+**IMDB**: 8.3 [link](https://www.imdb.com/title/tt0056172/)
+
+**Opis**: The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks.
+
+**Glumci**: Peter O'Toole, Alec Guinness, Anthony Quinn
+
 ### Materialists (2025)
 
 <img src="./img/30253473.jpg" width="20%">
