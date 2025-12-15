@@ -405,6 +405,16 @@ body {
 
 
 ## Domaći
+### WR: Mysteries of the Organism (1971)
+
+<img src="./img/0067958.jpg" width="20%">
+
+**IMDB**: 6.7 [link](https://www.imdb.com/title/tt0067958/)
+
+**Opis**: An homage to the work of psychologist Wilhelm Reich, matched with a story about a Yugoslavian girl's affair with a Russian skater. Sexual repression, social systems and the orgone theory are explored.
+
+**Glumci**: Milena Dravic, Ivica Vidovic, Jagoda Kaloper
+
 
 ### Pocetni udarac (1990)
 
