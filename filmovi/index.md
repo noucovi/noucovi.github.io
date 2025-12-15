@@ -524,6 +524,16 @@ body {
 **IMDB**: 6.5 [link](https://www.imdb.com/title/tt0283504/)
 
 ## Evropski
+### The Salt of the Earth (2014)
+
+<img src="./img/3674140.jpg" width="20%">
+
+**IMDB**: 8.4 [link](https://www.imdb.com/title/tt3674140/)
+
+**Opis**: The life and work of photographer Sebastião Salgado, who has spent forty years documenting societies in hidden corners of the world.
+
+**Glumci**: Sebastião Salgado, Wim Wenders, Lélia Wanick Salgado
+
 ### Playtime (1967)
 
 <img src="./img/0062136.jpg" width="20%">
