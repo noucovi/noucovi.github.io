@@ -405,6 +405,16 @@ body {
 
 
 ## Domaći
+### Just Between Us (2010)
+
+<img src="./img/1318029.jpg" width="20%">
+
+**IMDB**: 6.5 [link](https://www.imdb.com/title/tt1318029/)
+
+**Opis**: Nikola is a man who knows how to really enjoy life; he's even able to rouse sympathy for his sinful ways. His brother, Braco turns a blind eye to his philandering although, with a broken marriage behind him, he doesn't have a clea...
+
+**Glumci**: Predrag 'Miki' Manojlovic, Bojan Navojec, Daria Lorenci Flatz
+
 ### The Girl in the Park (1968)
 
 <img src="" width="20%">
