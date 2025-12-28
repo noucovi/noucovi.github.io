@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### Westworld (1973)
+
+<img src="./img/0070909.jpg" width="20%">
+
+**IMDB**: 6.9 [link](https://www.imdb.com/title/tt0070909/)
+
+**Opis**: A robot malfunction creates havoc and terror for unsuspecting vacationers at a futuristic, adult-themed amusement park.
+
+**Glumci**: Yul Brynner, Richard Benjamin, James Brolin
+
 ### The Graduate (1967)
 
 <img src="./img/0061722.jpg" width="20%">
