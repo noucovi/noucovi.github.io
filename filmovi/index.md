@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### Logan's Run (1976)
+
+<img src="./img/0074812.jpg" width="20%">
+
+**IMDB**: 6.8 [link](https://www.imdb.com/title/tt0074812/)
+
+**Opis**: A police officer in the future uncovers the deadly secret behind a society that worships youth.
+
+**Glumci**: Michael York, Jenny Agutter, Richard Jordan
+
 ### Westworld (1973)
 
 <img src="./img/0070909.jpg" width="20%">
