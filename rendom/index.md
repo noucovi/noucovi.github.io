@@ -1,5 +1,7 @@
 # Rendom
 
+https://www.reddit.com/r/kinematografija/comments/1ot0j6q/dokumentarni_filmovi_serije_o_muzici/
+
 Alfoldi porcelan (šolja sa višnjama)
 
 Japanci penjanje - [link1](https://m.youtube.com/watch?v=UCj5eHkhYg0) [link2](https://m.youtube.com/watch?v=7gXJap42ZP8)

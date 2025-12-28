@@ -28,6 +28,11 @@ Damon Runyon
 
 Susan Sontag - On Photography
 
+Branko Miljkovic
+
+Kant
+
+Vim Venders
 
 ## Stripovi
 

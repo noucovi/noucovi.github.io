@@ -35,6 +35,13 @@ Fila Brazillia
 
 Nu jazz
 
+Tech groove
+
+Tribal tech groove
+
+Funky tribal 
+
+Noise pop
 
 ## Bg
 
