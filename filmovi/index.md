@@ -634,6 +634,16 @@ body {
 **IMDB**: 6.5 [link](https://www.imdb.com/title/tt0283504/)
 
 ## Evropski
+### Love in the Afternoon (1972)
+
+<img src="./img/0068205.jpg" width="20%">
+
+**IMDB**: 7.6 [link](https://www.imdb.com/title/tt0068205/)
+
+**Opis**: Though he has an adoring wife, a bourgeois man is still tempted to pursue other women.
+
+**Glumci**: Bernard Verley, Zouzou, Françoise Verley
+
 ### The Salt of the Earth (2014)
 
 <img src="./img/3674140.jpg" width="20%">
