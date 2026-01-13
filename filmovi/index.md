@@ -445,6 +445,16 @@ body {
 
 
 ## Domaći
+### Bokseri idu u raj (1967)
+
+<img src="./img/0179684.jpg" width="20%">
+
+**IMDB**: 7.6 [link](https://www.imdb.com/title/tt0179684/)
+
+**Opis**: Tragicomic story about a former boxing champion, unbeaten in the ring, but beaten by alcohol.
+
+**Glumci**: Mija Aleksic, Ljubisa Samardzic, Ruzica Sokic
+
 ### Do You Remember Dolly Bell? (1981)
 
 <img src="./img/0083089.jpg" width="20%">
