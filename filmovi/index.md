@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### Blue Velvet (1986)
+
+<img src="./img/0090756.jpg" width="20%">
+
+**IMDB**: 7.7 [link](https://www.imdb.com/title/tt0090756/)
+
+**Opis**: The discovery of a severed human ear found in a field leads a young man on an investigation related to a beautiful, mysterious nightclub singer and a group of psychopathic criminals who have kidnapped her child.
+
+**Glumci**: Isabella Rossellini, Kyle MacLachlan, Dennis Hopper
+
 ### Life Itself (2018)
 
 <img src="./img/5989218.jpg" width="20%">
