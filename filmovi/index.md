@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### Of Mice and Men (1992)
+
+<img src="./img/0105046.jpg" width="20%">
+
+**IMDB**: 7.4 [link](https://www.imdb.com/title/tt0105046/)
+
+**Opis**: A nomadic farm worker looks after his dimwitted, gentle-giant friend during the Great Depression.
+
+**Glumci**: John Malkovich, Gary Sinise, Ray Walston
+
 ### Logan's Run (1976)
 
 <img src="./img/0074812.jpg" width="20%">
