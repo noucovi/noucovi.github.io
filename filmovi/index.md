@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### I Love You, Alice B. Toklas! (1968)
+
+<img src="./img/0063115.jpg" width="20%">
+
+**IMDB**: 6.2 [link](https://www.imdb.com/title/tt0063115/)
+
+**Opis**: A thirty-something square falls in love with a hippie and decides to "drop out" himself.
+
+**Glumci**: Peter Sellers, Jo Van Fleet, Leigh Taylor-Young
+
 ### Rear Window (1954)
 
 <img src="./img/0047396.jpg" width="20%">
