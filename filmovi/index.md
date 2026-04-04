@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### Rear Window (1954)
+
+<img src="./img/0047396.jpg" width="20%">
+
+**IMDB**: 8.5 [link](https://www.imdb.com/title/tt0047396/)
+
+**Opis**: A bored photographer recovering from a broken leg passes the time by watching his neighbors and begins to suspect one of them of murder.
+
+**Glumci**: James Stewart, Grace Kelly, Wendell Corey
+
 ### Old School (2003)
 
 <img src="./img/0302886.jpg" width="20%">
