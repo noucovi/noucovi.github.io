@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### Good Hair (2009)
+
+<img src="./img/1213585.jpg" width="20%">
+
+**IMDB**: 6.9 [link](https://www.imdb.com/title/tt1213585/)
+
+**Opis**: Chris Rock explores the wonders of African-American hairstyles.
+
+**Glumci**: Chris Rock, Maya Angelou, Al Sharpton
+
 ### Lost Highway (1997)
 
 <img src="./img/0116922.jpg" width="20%">
