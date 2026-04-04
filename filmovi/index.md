@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### Old School (2003)
+
+<img src="./img/0302886.jpg" width="20%">
+
+**IMDB**: 7.0 [link](https://www.imdb.com/title/tt0302886/)
+
+**Opis**: Three friends attempt to recapture their glory days by opening up a fraternity near their alma mater.
+
+**Glumci**: Luke Wilson, Vince Vaughn, Will Ferrell
+
 ### Good Hair (2009)
 
 <img src="./img/1213585.jpg" width="20%">
