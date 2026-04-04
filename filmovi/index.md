@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### Lost Highway (1997)
+
+<img src="./img/0116922.jpg" width="20%">
+
+**IMDB**: 7.6 [link](https://www.imdb.com/title/tt0116922/)
+
+**Opis**: Anonymous videotapes presage a musician's murder conviction, and a gangster's girlfriend leads a mechanic astray.
+
+**Glumci**: Bill Pullman, Patricia Arquette, John Roselius
+
 ### Blue Velvet (1986)
 
 <img src="./img/0090756.jpg" width="20%">
