@@ -18,6 +18,10 @@ Skate
 
 The Stanley Parable
 
+Road Rash
+
+Lotus 3 The Ultimate Challenge
+
 ## Multi
 
 Backseat Drivers
@@ -25,4 +29,3 @@ Backseat Drivers
 ## Wii
 
 Epic Mickey
-

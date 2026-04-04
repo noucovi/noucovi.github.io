@@ -72,6 +72,14 @@ Cover na diskovima - [link](https://www.reddit.com/r/PiratedGames/comments/1ljrm
 
 Medabots
 
+frutigeraeroarchive.org
+
+Brugo Groning
+
+Limerence
+
+compariosontabl.es
+
 ## Podkasti
 
 Darknet Diaries – True stories from the dark side of the Internet.
@@ -87,6 +95,10 @@ Normal People
 Miami Vice
 
 Zaboravljeni - [link](https://www.imdb.com/title/tt0367442/)
+
+I think you should leave
+
+Branko Zezelj
 
 ## Povremeno proveriti
 

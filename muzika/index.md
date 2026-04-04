@@ -30,6 +30,11 @@ Dusko Gojkovic
 
 Fila Brazillia
 
+Dimitri from Paris
+
+Deftones
+
+Steely Dan
 
 ## Žanr
 
