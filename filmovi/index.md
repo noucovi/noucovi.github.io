@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### Life Itself (2018)
+
+<img src="./img/5989218.jpg" width="20%">
+
+**IMDB**: 6.9 [link](https://www.imdb.com/title/tt5989218/)
+
+**Opis**: As a young New York City couple goes from college romance to marriage and the birth of their first child, the unexpected twists of their journey create reverberations that echo over continents and through lifetimes.
+
+**Glumci**: Oscar Isaac, Olivia Wilde, Annette Bening
+
 ### Of Mice and Men (1992)
 
 <img src="./img/0105046.jpg" width="20%">
