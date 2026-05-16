@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### The Artist (2011)
+
+<img src="./img/1655442.jpg" width="20%">
+
+**IMDB**: 7.8 [link](https://www.imdb.com/title/tt1655442/)
+
+**Opis**: When George, a silent movie superstar, meets Peppy Miller, a dancer, sparks fly between the two. However, after the introduction of talking pictures, their fortunes change, affecting their dynamic.
+
+**Glumci**: Jean Dujardin, Bérénice Bejo, John Goodman
+
 ### Boogie Nights (1997)
 
 <img src="./img/0118749.jpg" width="20%">
