@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### Clueless (1995)
+
+<img src="./img/0112697.jpg" width="20%">
+
+**IMDB**: 6.9 [link](https://www.imdb.com/title/tt0112697/)
+
+**Opis**: Shallow, rich and socially successful Cher is at the top of her Beverly Hills high school's pecking scale. Seeing herself as a matchmaker, Cher first coaxes two teachers into dating each other.
+
+**Glumci**: Alicia Silverstone, Stacey Dash, Brittany Murphy
+
 ### The Artist (2011)
 
 <img src="./img/1655442.jpg" width="20%">
