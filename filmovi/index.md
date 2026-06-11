@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### Great Expectations (1998)
+
+<img src="./img/0119223.jpg" width="20%">
+
+**IMDB**: 6.8 [link](https://www.imdb.com/title/tt0119223/)
+
+**Opis**: Modernization of Charles Dickens' classic story finds the hapless Finn as a painter in New York City pursuing his unrequited and haughty childhood love.
+
+**Glumci**: Ethan Hawke, Gwyneth Paltrow, Hank Azaria
+
 ### The Searchers (1956)
 
 <img src="./img/0049730.jpg" width="20%">
