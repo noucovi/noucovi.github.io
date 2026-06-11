@@ -9,6 +9,16 @@ body {
 # Filmovi
 
 ## Murican
+### The Searchers (1956)
+
+<img src="./img/0049730.jpg" width="20%">
+
+**IMDB**: 7.8 [link](https://www.imdb.com/title/tt0049730/)
+
+**Opis**: An American Civil War veteran embarks on a years-long journey to rescue his niece from the Comanches after the rest of his brother's family is massacred in a raid on their Texas farm.
+
+**Glumci**: John Wayne, Jeffrey Hunter, Vera Miles
+
 ### Clueless (1995)
 
 <img src="./img/0112697.jpg" width="20%">
