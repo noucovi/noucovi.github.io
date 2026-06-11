@@ -869,6 +869,16 @@ body {
 
 
 ## Ostalo
+### The Man Who Stole the Sun (1979)
+
+<img src="./img/0194426.jpg" width="20%">
+
+**IMDB**: 7.5 [link](https://www.imdb.com/title/tt0194426/)
+
+**Opis**: A high school science teacher builds an atomic bomb and uses it to extort the nation, but cannot decide what he wants. Meanwhile, a determined cop is catching up to him, as is radiation poisoning.
+
+**Glumci**: Bunta Sugawara, Kenji Sawada, Kimiko Ikegami
+
 ### I Am Cuba (1964)
 
 <img src="./img/0058604.jpg" width="20%">
